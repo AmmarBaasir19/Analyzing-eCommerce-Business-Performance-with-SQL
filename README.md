@@ -5,14 +5,18 @@ Project ini merupakan proses menggunakan bahasa pemrograman (Query Language) SQL
 Pada repository ini akan berisi beberapa file penting diantaranya : <br>
 1. File Image <br>
    Merupakan folder yang berisi file - file image yang digunakan untuk menjelaskan project pada repository ini
-2. Documentation_SQL Query_Analyzing Ecommerce Business Performance with SQL <br>
+   
+3. Documentation_SQL Query_Analyzing Ecommerce Business Performance with SQL <br>
    Merupakan file yang berisi dokumentasi langkah - langkah yang dilakukan pada project Analyzing Ecommerce Business Performance with SQL
    Anda dapat melihat filenya [disini](Documentation_SQL Query_Analyzing_Ecommerce.pdf)
-3. PDF_Analyzing Ecommerce Business Performance with SQL <br>
+   
+5. PDF_Analyzing Ecommerce Business Performance with SQL <br>
    Merupakan file presentasi dari project Analyzing Ecommerce Business Performance with SQL, File ini memiliki format PDF
-4. PPT_Analyzing Ecommerce Business Performance with SQL <br>
+   
+7. PPT_Analyzing Ecommerce Business Performance with SQL <br>
    Merupakan file presentasi dari project Analyzing Ecommerce Business Performance with SQL, File ini memiliki format PPT. File ini tidak dapat dibuka menggunakan Github, Jadi apabila ingin membuka file ini maka harus dilakukan download terlebih dahulu dengan cara : buka file, lalu tekan View raw (maka otomatis akan melakukan download pada file)
-5. Sql_Query_Analyzing Ecommerce <br>
+   
+9. Sql_Query_Analyzing Ecommerce <br>
    Merupakan file yang berisi Query (code) untuk melakukan analisis pada database postgresql
 
 Pengerjaan Project ini akan melewati beberapa tahapan : 
