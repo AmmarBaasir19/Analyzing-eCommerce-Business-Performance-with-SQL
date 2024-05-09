@@ -3,7 +3,9 @@
 Project ini merupakan proses menggunakan bahasa pemrograman (Query Language) SQL untuk mengevaluasi kinerja sebuah bisnis eCommerce. Ini melibatkan penggunaan kueri SQL untuk mengumpulkan, menganalisis, dan menginterpretasikan data dari berbagai sumber, seperti customers dataset, geolocations dataset, reviews dataset, orders dataset, products dataset, sellers dataset, order items dataset, payment dataset. Dengan menggunakan SQL, pemilik bisnis dapat mengidentifikasi tren, pola dan peluang untuk meningkatkan kinerja bisnis mereka. 
 
 Pada repository ini akan berisi beberapa file penting diantaranya : <br>
-1. Documentation_SQL Query_Analyzing Ecommerce Business Performance with SQL <br>
+1. File Image <br>
+   Merupakan folder yang berisi file - file image yang digunakan untuk menjelaskan project pada repository ini
+2. Documentation_SQL Query_Analyzing Ecommerce Business Performance with SQL <br>
    Merupakan file yang berisi dokumentasi langkah - langkah yang dilakukan pada project Analyzing Ecommerce Business Performance with SQL
    Anda dapat melihat filenya [disini](Documentation_SQL Query_Analyzing_Ecommerce.pdf)
 3. PDF_Analyzing Ecommerce Business Performance with SQL <br>
