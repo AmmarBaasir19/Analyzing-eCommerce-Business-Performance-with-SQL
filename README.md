@@ -26,4 +26,4 @@ Pengerjaan Project ini akan melewati beberapa tahapan :
 4. Annual Product Category Quality Analysis
 5. Analysis of Annual Payment Type Usage
 
-- ![ #c5f015 ]( https : //www.iconsdb.com/icons/download /color/c5f015/circle-16.png) `#c5f015`
+![ #c5f015 ]( https : //www.iconsdb.com/icons/download /color/c5f015/circle-16.png) `#c5f015`
