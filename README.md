@@ -5,7 +5,7 @@ Project ini merupakan proses menggunakan bahasa pemrograman (Query Language) SQL
 Pada repository ini akan berisi beberapa file penting diantaranya : <br>
 1. Documentation_SQL Query_Analyzing Ecommerce Business Performance with SQL <br>
    Merupakan file yang berisi dokumentasi langkah - langkah yang dilakukan pada project Analyzing Ecommerce Business Performance with SQL
-   Anda dapat melihat filenya [disini][Documentation_SQL Query_Analyzing_Ecommerce.pdf]
+   Anda dapat melihat filenya [disini](Documentation_SQL Query_Analyzing_Ecommerce.pdf)
 3. PDF_Analyzing Ecommerce Business Performance with SQL <br>
    Merupakan file presentasi dari project Analyzing Ecommerce Business Performance with SQL, File ini memiliki format PDF
 4. PPT_Analyzing Ecommerce Business Performance with SQL <br>
